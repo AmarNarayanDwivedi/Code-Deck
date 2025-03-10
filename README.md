@@ -1,8 +1,11 @@
 # Code Deck | An Online IDE
 
-## Demo
+## Interface
+![Screenshot 2025-03-10 211745](https://github.com/user-attachments/assets/cbcab38f-04ab-46d6-93a1-877e91199bf1)
 
-[<img src="/src/assets/codedeck.png" alt="Home Page"/>](https://www.youtube.com/watch?v=mEFBdhQmpy4&t=3s&ab_channel=VishalRajput)
+##Demo
+
+
 
 ## Project Objective
 
